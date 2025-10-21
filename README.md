@@ -1,5 +1,5 @@
 
-# Hi, I'm Shabih "Abdul Hafeez" Hasan 👋  
+# Hi, I'm Mohd Shabihul Hasan Khan "ShabihEthSec" 👋  
 ### Blockchain Security Researcher & DeFi Protocol Analyst
 
 ```rust
