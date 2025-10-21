@@ -51,16 +51,6 @@ fn main() {
 
 ````
 
----
 
-#### **4. Optional Add-ons**
-You can also:
-- Add badges (using [shields.io](https://shields.io))
-- Add Holopin badges like Prapti did  
-  (visit [holopin.io](https://holopin.io) → sign in with GitHub → copy your badge embed link)
-- Add GitHub stats widgets:
-  ```markdown
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShabihEthSec&show_icons=true&theme=tokyonight)
-````
 
 
