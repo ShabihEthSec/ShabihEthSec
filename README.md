@@ -1,5 +1,4 @@
 
-````markdown
 # Hi, I'm Shabih "Abdul Hafeez" Hasan 👋  
 ### Blockchain Security Researcher & DeFi Protocol Analyst
 
@@ -64,7 +63,4 @@ You can also:
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShabihEthSec&show_icons=true&theme=tokyonight)
 ````
 
----
 
-Would you like me to make it **look visually stunning** (with emojis, badges, GitHub stats, and animated typing text like a developer portfolio)?
-I can generate the full ready-to-paste markdown version for that.
