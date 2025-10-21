@@ -11,8 +11,8 @@ struct Dev {
 
 fn main() {
     let me = Dev {
-        name: "Shabih \"Abdul Hafeez\" Hasan",
-        role: "Blockchain Security Researcher 🧠",
+        name: "Mohd Shabihul Hasan Khan",
+        role: "Blockchain Developer & Security Researcher 🧠",
         langs: ["🦀 Rust", "🧱 Solidity", "⚡ TypeScript"],
     };
 
