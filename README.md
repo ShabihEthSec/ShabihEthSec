@@ -25,6 +25,7 @@ fn main() {
 🔍 **Researching:** MEV protection, reentrancy, and cross-chain risk models
 🐛 **Recently:** Confirmed bug report in Immunefi Plume Attackathon
 📊 **Exploring:** Uniswap V4, Rocket Pool rETH integration, GMX perpetuals trading, CoW DAO and security-first backend design
+
 ---
 
 ### 🛠️ Things I code & break with
