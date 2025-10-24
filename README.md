@@ -30,7 +30,7 @@ fn main() {
 
 ### 🛠️ Things I code & break with
 
-`Rust` • `Solidity` • `TypeScript` • `Anchor` • `Foundry` • `Node.js` • `Tokio` • `Hardhat` • `Docker` • `AWS` • `Kubernetes` • `Grafana` • `Prometheus` • `PostgreSQL`
+`Rust` • `Solidity` • `TypeScript` • `Anchor` • `Foundry` •  `Ethereum` • `Solana` • `Node.js` • `Tokio` • `Docker` • `AWS` • `Kubernetes` •
 
 ---
 
