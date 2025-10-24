@@ -24,8 +24,7 @@ fn main() {
 🧩 **Currently diving deep into:** Solana, Rust backend systems, and DeFi protocol security
 🔍 **Researching:** MEV protection, reentrancy, and cross-chain risk models
 🐛 **Recently:** Confirmed bug report in Immunefi Plume Attackathon
-📊 **Exploring:** CoW DAO, intent-based DEXs & security-first backend design
-
+📊 **Exploring:** Uniswap V4, Rocket Pool rETH integration, GMX perpetuals trading, CoW DAO and security-first backend design
 ---
 
 ### 🛠️ Things I code & break with
