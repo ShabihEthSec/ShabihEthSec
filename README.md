@@ -46,7 +46,8 @@ fn main() {
 
 * 🧑‍💻 [GitHub](https://github.com/ShabihEthSec)
 * 🕊️ [X (Twitter)](https://x.com/ShabihEthSec)
-* 🧱 [LinkedIn](https://linkedin.com/in/mohd-shabihul-hasan-498577174)
+* 🧱 [LinkedIn](https://www.linkedin.com/in/mohd-shabihul-hasan-khan-498577174/)
+* 🎮 [Discord](): mshabih
 * ✉️ [mohdshabihul@gmail.com](mailto:mohdshabihul@gmail.com)
 
 
