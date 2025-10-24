@@ -1,6 +1,6 @@
 
 # Hi, I'm Mohd Shabihul Hasan Khan "ShabihEthSec" 👋  
-### Blockchain Security Researcher & DeFi Protocol Analyst
+### Blockchain Security Researcher & Backend Engineer
 
 ```rust
 struct Dev {
